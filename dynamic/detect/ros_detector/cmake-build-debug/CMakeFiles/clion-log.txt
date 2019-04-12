@@ -1,0 +1,12 @@
+/home/divine/tool/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/divine/LearnVIORB/dynamic/detect/ROS
+CMake Error at CMakeLists.txt:2 (include):
+  include could not find load file:
+
+    /core/rosbuild/rosbuild.cmake
+
+
+CMake Error at CMakeLists.txt:4 (rosbuild_init):
+  Unknown CMake command "rosbuild_init".
+
+
+-- Configuring incomplete, errors occurred!

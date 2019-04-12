@@ -1,0 +1,5 @@
+/home/divine/tool/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/divine/LearnVIORB/dynamic/detect
+PROJECT_SOURCE_DIR: /home/divine/LearnVIORB/dynamic/detect
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/divine/LearnVIORB/dynamic/detect/cmake-build-debug
